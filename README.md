@@ -1,1 +1,1 @@
-This is a Readme md file for the chatapp frontend.
+This is a chat APP frontend
